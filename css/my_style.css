@@ -1,0 +1,12 @@
+
+* {
+    color: red;
+    background: gray;
+}
+div{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 500px;
+    
+}
